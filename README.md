@@ -19,5 +19,4 @@ Se utiliza el modelo **Random Forest**, un conjunto de múltiples **árboles de 
 1. Clona el repositorio y entra al proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-emociones.git
-cd proyecto-emociones
+https://github.com/SteveMancilla/ML-ARBOLES-DECISON.git

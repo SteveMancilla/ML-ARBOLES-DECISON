@@ -1,0 +1,2 @@
+codigo para activar el entorno virtual:
+source .venv/bin/activate
